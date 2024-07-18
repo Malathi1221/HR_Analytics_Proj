@@ -1,2 +1,4 @@
-# HR_Analytics_Proj
-Conducted comprehensive EDA on HR data to build an interactive dynamic dashboard that answers HR-related queries, ensuring accurate and insightful analysis. Engaged stakeholders with insightful questions to align solutions with strategic goals.
+# HR_Analytics_Proj-description:
+Conducted comprehensive EDA on HR data to build an interactive dynamic dashboard that answers HR-related queries, ensuring accurate & insightful analysis. Engaged stakeholders with insightful questions to align solutions with strategic goals.
+Cleaned data using Power Query, created key measures with DAX, and developed a dynamic dashboard representing WFH %, presence %, leave %, and trend analysis to derive actionable insights, such as identifying peak WFH days and trends, enabling strategic decision-making for project releases, hybrid work models, and client engagement scheduling.
+Proposed enhancements including automated data refresh, Email alerts for critical metrics, & data-access security levels to ensure the dashboard remains robust and scalable for ongoing HR analytics.
